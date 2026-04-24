@@ -1,0 +1,5 @@
+# Placeholder file to ensure empty screenshots folder is tracked by Git
+# Add your Postman screenshots here:
+# - login_request_success.png
+# - protected_route_access.png
+# - token_invalidation.png
